@@ -19,3 +19,4 @@ My Operation Element : DML
 8.Variables, Ceiling, Floor, Date Format, Round, Average, Constraint, CASE, Filtering,  Throw, Marge
 9. RANK, LEN, UPPER, LOWER, TRIM, LTRIM, RTRIM, LEFT, RIGHT, LIKE, 
 
+#Live Link: https://emon4084.github.io/MS_SQL_Hospital_Management/
